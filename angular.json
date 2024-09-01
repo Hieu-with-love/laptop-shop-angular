@@ -30,7 +30,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "assets/css/bootstrap.min.css",
+              "assets/css/font-awesome.min.css",
+              "assets/css/nouislider.min.css",
+              "assets/css/slick-theme.css",
+              "assets/css/slick.css",
+              "assets/css/style.css"
             ],
             "scripts": []
           },
@@ -100,5 +106,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "f7b38a81-300a-4b3b-a733-c494cd29a9f7"
   }
 }
